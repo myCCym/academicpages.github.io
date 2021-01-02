@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyu CHEN"
+title                    : "Siteng Huang"
 title_separator          : "-"
-name                     : &name "Mingyu CHEN"
-description              : &description "Undergraduate"
-url                      : myccym.github.io/c/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Siteng Huang"
+description              : &description "Ph.D. Student"
+url                      : https://kyonhuang.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "myCCym/c/"
+repository               : "bighuang624/bighuang624.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingyu CHEN"
+  name             : "Siteng Huang"
   avatar           : "profile.png"
-  bio              : "Undergraduate @ HUST"
-  location         : "WuHan, China"
+  bio              : "Joint Ph.D. Student @ Westlake University & Zhejiang University"
+  location         : "Hangzhou, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "chenmingyuwuhan@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
+  email            : "huangsiteng@westlake.edu.cn"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "myCCym"
+  github           : "bighuang624"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9735-1186"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "KyonHuang"
   vine             :
   weibo            :
   xing             :
