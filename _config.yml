@@ -11,7 +11,7 @@ title                    : "Mingyu CHEN"
 title_separator          : "-"
 name                     : &name "Mingyu CHEN"
 description              : &description "Undergraduate"
-url                      : https://myccym.github.io/c/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://myccym.github.io/c # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myCCym/myccym.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "WuHan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
   email            : "chenmingyuwuhan@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  orcid            : #"https://orcid.org/0000-0002-9735-1186"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : #"KyonHuang"
   vine             :
   weibo            :
   xing             :
