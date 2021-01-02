@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siteng Huang"
+  name             : "Mingyu CHEN"
   avatar           : "profile.png"
-  bio              : "Joint Ph.D. Student @ Westlake University & Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Undergraduate @ HUST"
+  location         : "WuHan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "huangsiteng@westlake.edu.cn"
+  email            : "chenmingyuwuhan@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bighuang624"
+  github           : "myCCym"
   google_plus      :
   keybase          :
   instagram        :
