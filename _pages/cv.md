@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in HuaZhong Univrsity of Sci. and Tech., 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018 to Now: Research Assistant in HUST
+  * Duties included: explore onlion auction mechanisms for resource allocation in Mobile Edge Network 
+  * Supervisor: Assistant Professor Yang CAO
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020 to Fall 2020: Research Assistant in Auburn University
+  * Duties included: optimize computation/communication offloading in Mobile Edge Network 
+  * Supervisor: Assistant Professor Xiaowen GONG
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Language: Chinese (Native Speaker), English (Fluent)
+* Computer: Golang (Proficient), C/C++ (Proficient), MATLAB (Proficient), Python (Good)
+* Acedemic Writing: Good
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Former leader of Programming Team of **WeSharp** club
