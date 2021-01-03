@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in HuaZhong Univrsity of Sci. and Tech., 2017
+* GPA: 88/3.8 TOEFL: 98
 
 Work experience
 ======
