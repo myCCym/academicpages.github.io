@@ -1,7 +1,9 @@
 ---
+
 title: "Delay-Optimal Distributed Edge Computation Offloading for Interdependent Computation and Communication Workloads"
 collection: researches
 permalink: /researches/2
+excerpt: ''
 
 ---
 
