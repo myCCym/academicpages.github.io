@@ -1,7 +1,8 @@
 ---
 title: "Delay-Optimal Distributed Edge Computation Offloading for Interdependent Computation and Communication Workloads"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: researches
+permalink: /researches/2
+
 ---
 
 By integrating edge computing with parallel computing, distributed edge computing (DEC) makes use of distributed devices in edge networks to perform computing in parallel, which can substantially reduce service delay. 
